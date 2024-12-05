@@ -1,0 +1,3 @@
+This error typically occurs when you have a mismatch between the Expo CLI version and the dependencies specified in your project's `package.json` file.  For example, you might be using an older Expo CLI that doesn't support a newer React Native or Expo SDK version used by your project's dependencies.
+
+Another potential cause is a corrupted Expo CLI installation.  This can happen due to incomplete installation or interference from other tools or processes.  In some cases, conflicting packages or incorrect configurations can also lead to this unexpected behavior.
